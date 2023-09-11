@@ -1,0 +1,28 @@
+.div{
+    height: 500px;
+    background-color: #f3f3f4;
+    background-image: url("../img/bk.png");
+    background-repeat: no-repeat;
+    background-position: left bottom;
+    text-align: right;
+    color: #333;
+}
+.div h2{
+    font-size: 36px;
+    line-height: 100px;
+    font-weight: 400;
+
+}
+.div p{
+    font-size: 20px;
+}
+.div a{
+    font-size: 20px;
+    color: #fff;
+    background-color: #f06b1f;
+    line-height: 40px;
+    width: 125px;
+    display: inline-block;
+    text-align: center;
+    text-decoration: none;
+}
