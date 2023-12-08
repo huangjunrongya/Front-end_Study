@@ -1,3 +1,4 @@
+//回调函数的学习
 function fetchData(callback) {
     //模拟数据获取
     setTimeout(() => {
